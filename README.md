@@ -17,6 +17,7 @@ This program asks the user for their first name and last name and then displays 
 
 ## Project
 **File:** project.py
+
 **Description**
 This Python program is a menu-driven Employee Management System that allows users to add, view, and search employee records using a dictionary-based data structure through a terminal interface with emoji-enhanced prompts.
 Employee information such as Employee ID, Name, Age, Department, and Salary is stored in a nested Python dictionary, where each employee ID acts as a unique key. The system ensures that duplicate employee IDs are not allowed.
